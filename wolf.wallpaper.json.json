@@ -1,13 +1,13 @@
 {
   "packagename": "com.zayviusdigital.wallpaper_json",
   "link_new_app": "null",
-  "selectads": "unity",
+  "selectads": "applovin",
   "interval_inter": 3,
   "applovin": [
     {
-      "banner": "xxxxxxxxxxxxxxx",
-      "inter": "xxxxxxxxxxxxxxxx",
-      "reward": "xxxxxxxxxxxxxxx"
+      "banner": "8a03823268e241d5",
+      "inter": "bc1576080816a732",
+      "reward": "25fdbde432fd9ce5"
     }
   ],
   "unity": [
