@@ -16,7 +16,7 @@
 "MODE_MP3_ONLINE_OFFLINE" : "online",
 
 
-"MODE_BACKUP_ADS" : true,
+"MODE_BACKUP_ADS" : false,
 "MODE_NO_ADS" : false,
 "ADS_ON_START" : false, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
@@ -45,8 +45,8 @@
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4984137",
 
-"STARTAPPID" : "",
-"ENABLE_STRAP" : true,
+"STARTAPPID" : "123154",
+"ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
