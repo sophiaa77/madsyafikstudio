@@ -1,0 +1,147 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : true,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Pro Version Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 20,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "BIARKAN KOSONG",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "12345",
+
+"STARTAPPID" : "123154",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+this the best apps ever, ive try it and so awesome
+
+you need to try download this too bro
+",
+"MORE_BUTTON" : "Share Via Whatsapp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,"Mp3": [
+
+  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
+  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
+  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
+  {    "name_mp3": "bear.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/bear.mp3"  }
+  {    "name_mp3": "bee.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/bee.mp3"  }
+  {    "name_mp3": "cow.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/cow.wav"  }
+  {    "name_mp3": "dog.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/dog.mp3"  }
+  {    "name_mp3": "dolphin.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/dolphin.mp3"  }
+  {    "name_mp3": "donkey.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/donkey.m4a"  }
+  {    "name_mp3": "dove.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/dove.mp3"  }
+  {    "name_mp3": "duck.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/duck.mp3"  }
+  {    "name_mp3": "emu.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/emu.mp3"  }
+  {    "name_mp3": "fox.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/fox.mp3"  }
+  {    "name_mp3": "goat.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/goat.mp3"  }
+  {    "name_mp3": "hamster.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/hamster.mp3"  }
+  {    "name_mp3": "horse.p3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/horse.mp3"  }
+  {    "name_mp3": "lama.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/lama.wav"  }
+  {    "name_mp3": "lion.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/lion.mp3"  }
+  {    "name_mp3": "monkey.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/monkey.mp3"  }
+  {    "name_mp3": "pig.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/pig.mp3"  }
+  {    "name_mp3": "quail.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/quail.mp3"  }
+  {    "name_mp3": "rhea.p3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/rhea.mp3"  }
+  {    "name_mp3": "roaster.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/roaster.mp3"  }
+  {    "name_mp3": "sealion.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/sealion.mp3"  }
+  {    "name_mp3": "turkey.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/turkey.mp3"  }
+  {    "name_mp3": "wolf.mp3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/wolf.mp3"  }
+  {    "name_mp3": "yak.p3",    "link_mp3": "https://github.com/sophiaa77/animal-sound-wall/raw/main/yak.mp3"  }
+  
+ 
+
+],
+"Wallpaper": [
+
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/bear.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/bee.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/cow.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/dog.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/dolphin.jpg"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/donkey.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/dove.jpg"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/duck.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/emu.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/fox.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/goat.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/hamster.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/horse.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/lama.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/lion.jpg"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/monkey.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/pig.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/quail.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/rhea.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/roaster.jpg"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/sealion.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/turkey.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/wolf.png"  },
+ {    "image": "https://raw.githubusercontent.com/sophiaa77/animal-sound-wall/main/yak.jpg"  },
+ {    "image": "file:///android_asset/wallpaper (1).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (2).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (3).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (4).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (5).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (6).jpg"  },
+ {    "image": "file:///android_asset/wallpaper (7).jpg"  }
+
+]
+}
