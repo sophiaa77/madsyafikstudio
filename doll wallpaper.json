@@ -1,7 +1,7 @@
 {
   "packagename": "com.doll_cute.wallpaper_syafi",
   "link_new_app": "null",
-  "selectads": "applovin",
+  "selectads": "unity",
   "interval_inter": 3,
   "applovin": [
     {
@@ -12,7 +12,7 @@
   ],
   "unity": [
     {
-      "id_app": "xxxxxxx",
+      "id_app": "5017835",
       "banner": "Banner_Android",
       "inter": "Interstitial_Android",
       "reward": "Rewarded_Android"
