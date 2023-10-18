@@ -31,7 +31,7 @@
 
 "INTER_COUNT" : "4",
 
-"ENABLE_STRAP" : false,
+"ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
