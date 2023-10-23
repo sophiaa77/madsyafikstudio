@@ -1,0 +1,16 @@
+{
+  "select_ads": "unity",
+  "unity": [
+    {
+      "id_ads": "4950383",
+      "unit_banner": "Banner_Android",
+      "unit_inter": "Interstitial_Android"
+    }
+  ],
+  "applovin": [
+    {
+      "banner": "7ca9d90a1941c221",
+      "inter": "6cf97bc60daa0b7c"
+    }
+  ]
+}
