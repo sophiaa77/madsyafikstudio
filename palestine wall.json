@@ -1,0 +1,259 @@
+{
+  "packagename": "com.walla.wallpaper_palestine",
+  "link_new_app": "null",
+  "selectads": "unity",
+  "interval_inter": 4,
+  "applovin": [
+    {
+      "banner": "xxxxxxxxxxxxxxx",
+      "inter": "xxxxxxxxxxxxxxxx",
+      "reward": "xxxxxxxxxxxxxxx"
+    }
+  ],
+  "unity": [
+    {
+      "id_app": "5498701",
+      "banner": "Banner_Android",
+      "inter": "Interstitial_Android",
+      "reward": "Rewarded_Android"
+    }
+  ],
+  "kang_zayvius": [
+    {
+      "id": "1",
+      "link_images": "https://wallpapercave.com/wp/wp2592081.jpg"
+    },                
+    {                 
+      "id": "2",      
+      "link_images": "https://wallpapercave.com/wp/wp4933438.jpg"
+    },                
+    {                 
+      "id": "3",      
+      "link_images": "https://wallpapercave.com/wp/wp4933439.jpg"
+    },                
+    {                 
+      "id": "4",      
+      "link_images": "https://wallpapercave.com/wp/wp3006938.jpg"
+    },                
+    {                 
+      "id": "5",      
+      "link_images": "https://wallpapercave.com/wp/wp4933449.jpg"
+    },                
+    {                 
+      "id": "6",      
+      "link_images": "https://wallpapercave.com/wp/wp4933450.jpg"
+    },                
+    {                 
+      "id": "7",      
+      "link_images": "https://wallpapercave.com/wp/wp4933459.jpg"
+    },                
+    {                 
+      "id": "8",      
+      "link_images": "https://wallpapercave.com/wp/wp4933460.jpg"
+    },                
+    {                 
+      "id": "9",      
+      "link_images": "https://wallpapercave.com/wp/wp4933468.jpg"
+    },                
+    {                 
+      "id": "10",     
+      "link_images": "https://wallpapercave.com/wp/wp4933473.jpg"
+    },                
+    {                 
+      "id": "11",     
+      "link_images": "https://wallpapercave.com/wp/wp4933496.jpg"
+    },
+    {
+      "id": "12",
+      "link_images": "https://i.pinimg.com/736x/b9/22/a3/b922a39c34cf7690d6da387aaebd24b1.jpg"
+    },                
+    {                 
+      "id": "13",     
+      "link_images": "https://i.pinimg.com/564x/4f/33/f4/4f33f460aebb098d1ed9be51c71f2140.jpg"
+    },                
+    {                 
+      "id": "14",     
+      "link_images": "https://i.pinimg.com/736x/f9/2e/99/f92e9914aebba6f433d443d786c6aba0.jpg"
+    },                
+    {                 
+      "id": "15",     
+      "link_images": "https://i.pinimg.com/564x/21/00/25/2100253df8c2dbfdaf571064e2d4da07.jpg"
+    },                
+    {                 
+      "id": "16",     
+      "link_images": "https://i.pinimg.com/564x/3b/79/14/3b7914d63c81f0e885b9bcf3718adfa4.jpg"
+    },                
+    {                 
+      "id": "17",     
+      "link_images": "https://i.pinimg.com/736x/25/8c/83/258c83ae3f0d7030d2d48404a19d9e62.jpg"
+    },                
+    {                 
+      "id": "18",     
+      "link_images": "https://i.pinimg.com/564x/cc/90/45/cc9045580e53e19657af22841f18b872.jpg"
+    },                
+	{                 
+      "id": "19",     
+      "link_images": "https://i.pinimg.com/564x/e8/e7/1a/e8e71a624dc3c0fc3f4637c591ac1f77.jpg"
+    },                
+    {                 
+      "id": "20",     
+      "link_images": "https://i.pinimg.com/736x/46/36/9a/46369a8767bf1ea818c60b4e5bbb5b9d.jpg"
+    },                
+	{                 
+      "id": "1",      
+      "link_images": "https://i.pinimg.com/564x/48/d8/a1/48d8a1139f545da8180458b3b5f2ad49.jpg"
+    },                
+    {                 
+      "id": "2",      
+      "link_images": "https://i.pinimg.com/564x/a7/62/4b/a7624b8967e779d05537a54e44036213.jpg"
+    },                
+    {                 
+      "id": "3",      
+      "link_images": "https://i.pinimg.com/736x/ba/6d/8c/ba6d8c4450217863f18152da5fb8ad68.jpg"
+    },                
+    {                 
+      "id": "4",      
+      "link_images": "https://i.pinimg.com/564x/be/8f/e4/be8fe4aca814181beeec08359d8ff034.jpg"
+    },                
+    {                 
+      "id": "5",      
+      "link_images": "https://i.pinimg.com/564x/2d/77/08/2d7708286d2701c548fa537d6046cf83.jpg"
+    },                
+    {                 
+      "id": "6",      
+      "link_images": "https://i.pinimg.com/564x/13/34/00/1334005f13e8aaeabbede2e76eb8bb6b.jpg"
+    },                
+    {                 
+      "id": "7",      
+      "link_images": "https://i.pinimg.com/736x/65/b5/04/65b50472d298feb8318cc3c7d38ced46.jpg"
+    },                
+    {                 
+      "id": "8",      
+      "link_images": "https://i.pinimg.com/564x/8b/f1/71/8bf1715d12afcceda6e83b12fb857db2.jpg"
+    },                
+    {                 
+      "id": "9",      
+      "link_images": "https://i.pinimg.com/736x/c1/5f/f8/c15ff8af5bb0639c110cc460e1a49486.jpg"
+    },                
+    {                 
+      "id": "10",     
+      "link_images": "https://i.pinimg.com/564x/9f/6d/8b/9f6d8b2239cc4209711eb1afb9181697.jpg"
+    },                
+    {                 
+      "id": "11",     
+      "link_images": "https://i.pinimg.com/564x/60/06/1d/60061d10e742fd9ad1a4a45c9a0cfaba.jpg"
+    },                
+    {                 
+      "id": "12",     
+      "link_images": "https://i.pinimg.com/564x/04/ad/cb/04adcb9bd03b9e0ecac98d5ce8336f93.jpg"
+    },                
+    {                 
+      "id": "13",     
+      "link_images": "https://i.pinimg.com/736x/cc/52/02/cc52027ab6e7d3f3374017e028881610.jpg"
+    },                
+    {                 
+      "id": "14",     
+      "link_images": "https://i.pinimg.com/564x/61/ca/10/61ca10db40cbbe2584d29e1d459899ff.jpg"
+    },                
+    {                 
+      "id": "15",     
+      "link_images": "https://i.pinimg.com/564x/91/5a/bd/915abd16aaa452b0934e18ebecc2d3a0.jpg"
+    },                
+    {                 
+      "id": "16",     
+      "link_images": "https://i.pinimg.com/564x/b8/d7/43/b8d7434610d2b79af2d60180b4a9c051.jpg"
+    },                
+    {                 
+      "id": "17",     
+      "link_images": "https://i.pinimg.com/564x/74/fe/8e/74fe8ede68c1966b69fc0c99bac25010.jpg"
+    },                
+    {                 
+      "id": "18",     
+      "link_images": "https://i.pinimg.com/736x/9a/66/76/9a66766753ab2258adc742eb652d435c.jpg"
+    },                
+    {                 
+      "id": "19",     
+      "link_images": "https://i.pinimg.com/564x/ff/0a/d3/ff0ad332df6704b14fd8fdaaf088458f.jpg"
+    },                
+    {                 
+      "id": "20",     
+      "link_images": "https://i.pinimg.com/564x/02/12/df/0212dfa404f3c8194d2008e539584e76.jpg"
+    },                
+	{                 
+      "id": "1",      
+      "link_images": "https://i.pinimg.com/564x/52/8e/fb/528efbae95e429e25ab5b849ee00d0be.jpg"
+    },                
+    {                 
+      "id": "2",      
+      "link_images": "https://w0.peakpx.com/wallpaper/740/127/HD-wallpaper-save-palestine-muslim-philistine-iphone.jpg"
+    },                
+    {                 
+      "id": "3",      
+      "link_images": "https://w0.peakpx.com/wallpaper/774/126/HD-wallpaper-palestine-map-arab-maps.jpg"
+    },                
+    {                 
+      "id": "4",      
+      "link_images": "https://w0.peakpx.com/wallpaper/360/866/HD-wallpaper-jerusalem-palestine-arab-islam.jpg"
+    },                
+    {                 
+      "id": "5",      
+      "link_images": "https://w0.peakpx.com/wallpaper/601/419/HD-wallpaper-palestine-love-dom-masjid-akessa-palestinian-kodes.jpg"
+    },                
+    {                 
+      "id": "6",      
+      "link_images": "https://w0.peakpx.com/wallpaper/48/886/HD-wallpaper-palestinianheartbeat-palestine-heartbeat-palestinian-heart.jpg"
+    },                
+    {                 
+      "id": "7",      
+      "link_images": "https://w0.peakpx.com/wallpaper/224/388/HD-wallpaper-palestine-arabic-back-come-elaqsaa-elquds-gazza-islamic.jpg"
+    },
+    {
+      "id": "8",
+      "link_images": "https://w0.peakpx.com/wallpaper/260/218/HD-wallpaper-palestine-flag-arab-flags.jpg"
+    },                
+    {                 
+      "id": "9",      
+      "link_images": "https://w0.peakpx.com/wallpaper/702/483/HD-wallpaper-palestine-face.jpg"
+    },                
+    {                 
+      "id": "10",     
+      "link_images": "https://w0.peakpx.com/wallpaper/891/984/HD-wallpaper-palestine-desgin-dom-love-palestinan-people.jpg"
+    },                
+    {                 
+      "id": "11",     
+      "link_images": "https://w0.peakpx.com/wallpaper/209/989/HD-wallpaper-al-aqsa-al-aqsa-al-quds-black-gold-islamic-jerusalem-masjid-mosque-old-palestine.jpg"
+    },                
+    {                 
+      "id": "12",     
+      "link_images": "https://w0.peakpx.com/wallpaper/100/733/HD-wallpaper-save-palestine-usa-russia-uk-germany-poland-ukraine-american-french.jpg"
+    },                
+    {                 
+      "id": "13",     
+      "link_images": "https://w0.peakpx.com/wallpaper/301/207/HD-wallpaper-gaza-dom-light-palestine-taraji-tunisia-tunisie.jpg"
+    },                
+    {                 
+      "id": "14",     
+      "link_images": "https://w0.peakpx.com/wallpaper/527/856/HD-wallpaper-kudus-mosque-baitulmuqaddis-cuma-filistin-palestine-islamic-jerusalem-jumaat-jumat-jumma-raya.jpg"
+    },                
+    {                 
+      "id": "15",     
+      "link_images": "https://w0.peakpx.com/wallpaper/621/393/HD-wallpaper-palestine-map-art-city-gaza-heifa-names-quds-wall-wood.jpg"
+    },                
+    {                 
+      "id": "16",     
+      "link_images": "https://w0.peakpx.com/wallpaper/14/41/HD-wallpaper-palestine-flag-dark-beautiful-palestine-flag.jpg"
+    },                
+    {                 
+      "id": "17",     
+      "link_images": "https://w0.peakpx.com/wallpaper/611/542/HD-wallpaper-palestine-flag-flag-palestine.jpg"
+    },                
+    {                 
+      "id": "18",     
+      "link_images": "https://w0.peakpx.com/wallpaper/310/592/HD-wallpaper-palestine-arab.jpg"
+    },                
+    {                 
+      "id": "19",     
+      "link_images": "https://w0.peakpx.com/wallpaper/149/730/HD-wallpaper-gaza-palestine.jpg"
+    }
+  ]
+}
